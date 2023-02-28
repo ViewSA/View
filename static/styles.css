@@ -58,7 +58,7 @@
     .propuesta{
         margin: 0 auto;
         width: 100%;
-        height: 50vh;
+        height: 80vh;
         display: flexbox;
         align-items: center;
         color: rgb(0, 0, 0);
@@ -154,7 +154,7 @@
     .contacto .uno{
         background-color: #fff;
         width: 100%;
-        height: 60vh;
+        height: 70vh;
     }
     .contacto .uno .tituloContacto{
         color: black;
